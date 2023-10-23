@@ -20,7 +20,7 @@
     ]
   },
   "lint-staged": {
-    "src/*/**": [
+    "src/**/*.{ts,css,html}": [
       "npm run format",
       "eslint --fix"
     ]
