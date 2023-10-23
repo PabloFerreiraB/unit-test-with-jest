@@ -28,8 +28,4 @@ describe('AppComponent', () => {
       'unit-test-with-jest app is running!'
     );
   });
-
-  it('should ', () => {
-
-  });
 });
